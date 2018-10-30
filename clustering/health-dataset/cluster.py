@@ -33,18 +33,13 @@ X = scaler.transform(X)
 Js = []
 Calinks = []
 Davies = []
+all_labels = {}
 
 for k in range(2,k_max): # 2 à 300 (ronny), 301 à 500 (letícia)
 	#kmeans = KMeans(n_clusters=k, random_state=0).fit(X)
 	kmeans = KMeans(n_clusters=k, random_state=0, n_jobs=-1).fit(X)
 	labels = kmeans.labels_
-
-	# Get medoid
-	#c_0 = []
-	#for i in range(X_pca.shape[0]):
-	#	if labels[i] == 0:
-	#		c_0.append(X_pca[i])
-	#print(medoid(c_0))
+	all_labels[k] = labels
 
 	#centroids = kmeans.cluster_centers_
 	#J = np.mean([np.linalg.norm(X[i]-centroids[labels[i]]) for i in range(X.shape[0])])
@@ -63,6 +58,18 @@ for k in range(2,k_max): # 2 à 300 (ronny), 301 à 500 (letícia)
 
 #avaliar os clusters finais com metrica local
 
+'''
+# Get medoid
+labels = os labels do k escolhido
+clusters_inds = np.random.choice(k,min(k,3),replace=False)
+for c in cluster_inds:
+	cl = []
+	for i in range(X.shape[0]):
+		if labels[i] == c:
+			cl.append(X[i])
+	print(medoid(cl))
+'''
+
 plt.xlabel('Number of clusters')
 plt.ylabel('Inertia')
 plt.plot(range(2,k_max),Js)
@@ -77,6 +84,7 @@ plt.xlabel('Number of clusters')
 plt.ylabel('Davies Bound Score')
 plt.plot(range(2,k_max),Davies)
 plt.show()
+
 '''
 # Aplicar o PCA só depois no melhor
 pca = PCA(0.95) # 'mle' # n_components=2,svd_solver='full'
@@ -89,3 +97,4 @@ X_pca = pca.transform(X)
 #print(X_pca.shape)
 #X_pca = pca.transform(X)
 '''
+
