@@ -3,8 +3,6 @@ from sklearn.metrics import silhouette_score
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics.cluster import homogeneity_score
-#from sklearn.metrics import davies_bouldin_score
-from sklearn import metrics
 from matplotlib import pyplot as plt
 import numpy as np
 
@@ -20,7 +18,7 @@ def medoid(cluster):
 	near = np.argmin(dist_matrix[med])
 	return cluster[med], cluster[near]
 
-k_max = 10
+k_max = 100
 data_dir = 'word2vec.csv'
 X = np.genfromtxt(data_dir,dtype=np.float32,delimiter=',',skip_header=0,encoding='ascii')
 np.random.shuffle(X)
@@ -31,9 +29,6 @@ scaler.fit(X)
 X = scaler.transform(X)
 
 Js = []
-Calinks = []
-Davies = []
-
 for k in range(2,k_max): # 2 à 300 (ronny), 301 à 500 (letícia)
 	#kmeans = KMeans(n_clusters=k, random_state=0).fit(X)
 	kmeans = KMeans(n_clusters=k, random_state=0, n_jobs=-1).fit(X)
@@ -54,29 +49,10 @@ for k in range(2,k_max): # 2 à 300 (ronny), 301 à 500 (letícia)
 	#print(coef_homo)
 	#coef_silhueta = silhouette_score(X,labels,metric='euclidean')
 	#print('Coef de silhueta para %d clusters: %f'%(k,coef_silhueta))
-	calinks_score = metrics.calinski_harabaz_score(X, labels)
-	Calinks.append(calinks_score)
-	print('Calinks Score para %d clusters: %f'%(k,calinks_score))
-	davies_score = metrics.davies_bouldin_score(X, labels)
-	Davies.append(davies_score)
-	print('Davies Bound Score para %d clusters: %f'%(k,davies_score))
 
-#avaliar os clusters finais com metrica local
-
-plt.xlabel('Number of clusters')
-plt.ylabel('Inertia')
 plt.plot(range(2,k_max),Js)
 plt.show()
 
-plt.xlabel('Number of clusters')
-plt.ylabel('Calinks Score')
-plt.plot(range(2,k_max),Calinks)
-plt.show()
-
-plt.xlabel('Number of clusters')
-plt.ylabel('Davies Bound Score')
-plt.plot(range(2,k_max),Davies)
-plt.show()
 '''
 # Aplicar o PCA só depois no melhor
 pca = PCA(0.95) # 'mle' # n_components=2,svd_solver='full'
@@ -89,3 +65,4 @@ X_pca = pca.transform(X)
 #print(X_pca.shape)
 #X_pca = pca.transform(X)
 '''
+
