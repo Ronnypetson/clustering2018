@@ -16,7 +16,7 @@ def medoid(cluster):
 			dist_matrix[j,i] = dist
 	return cluster[np.argmin(dist_matrix.sum(axis=0))]
 
-k_max = 20
+k_max = 100
 data_dir = 'word2vec.csv'
 X = np.genfromtxt(data_dir,dtype=np.float32,delimiter=',',skip_header=0,encoding='ascii')
 np.random.shuffle(X)
@@ -26,23 +26,10 @@ scaler.fit(X)
 
 X = scaler.transform(X)
 
-# Aplicar o PCA só depois no melhor
-pca = PCA(0.95) # 'mle' # n_components=2,svd_solver='full'
-pca.fit(X)
-
-#print(pca.explained_variance_ratio_)
-print(len(pca.explained_variance_ratio_)) # explained_variance_ratio_
-
-X_pca = pca.transform(X)
-#print(X_pca.shape)
-#X_pca = pca.transform(X)
-
-#exit()
-
 Js = []
-for k in range(2,k_max): # 2 à 300, 301 à 500. Distribuir nos núcleos
+for k in range(2,k_max): # 2 à 300 (ronny), 301 à 500 (letícia)
 	#kmeans = KMeans(n_clusters=k, random_state=0).fit(X)
-	kmeans = KMeans(n_clusters=k, random_state=0).fit(X_pca)
+	kmeans = KMeans(n_clusters=k, random_state=0, n_jobs=-1).fit(X)
 	labels = kmeans.labels_
 
 	# Get medoid
@@ -54,6 +41,7 @@ for k in range(2,k_max): # 2 à 300, 301 à 500. Distribuir nos núcleos
 
 	#centroids = kmeans.cluster_centers_
 	#J = np.mean([np.linalg.norm(X[i]-centroids[labels[i]]) for i in range(X.shape[0])])
+	print(k)
 	Js.append(kmeans.inertia_) # J
 	#coef_homo = homogeneity_score(X_pca,labels)
 	#print(coef_homo)
@@ -63,3 +51,15 @@ for k in range(2,k_max): # 2 à 300, 301 à 500. Distribuir nos núcleos
 plt.plot(range(2,k_max),Js)
 plt.show()
 
+'''
+# Aplicar o PCA só depois no melhor
+pca = PCA(0.95) # 'mle' # n_components=2,svd_solver='full'
+pca.fit(X)
+
+#print(pca.explained_variance_ratio_)
+print(len(pca.explained_variance_ratio_)) # explained_variance_ratio_
+
+X_pca = pca.transform(X)
+#print(X_pca.shape)
+#X_pca = pca.transform(X)
+'''
