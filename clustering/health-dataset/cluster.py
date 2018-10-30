@@ -3,6 +3,8 @@ from sklearn.metrics import silhouette_score
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics.cluster import homogeneity_score
+#from sklearn.metrics import davies_bouldin_score
+from sklearn import metrics
 from matplotlib import pyplot as plt
 import numpy as np
 
@@ -27,6 +29,9 @@ scaler.fit(X)
 X = scaler.transform(X)
 
 Js = []
+Calinks = []
+Davies = []
+
 for k in range(2,k_max): # 2 à 300 (ronny), 301 à 500 (letícia)
 	#kmeans = KMeans(n_clusters=k, random_state=0).fit(X)
 	kmeans = KMeans(n_clusters=k, random_state=0, n_jobs=-1).fit(X)
@@ -47,6 +52,14 @@ for k in range(2,k_max): # 2 à 300 (ronny), 301 à 500 (letícia)
 	#print(coef_homo)
 	#coef_silhueta = silhouette_score(X,labels,metric='euclidean')
 	#print('Coef de silhueta para %d clusters: %f'%(k,coef_silhueta))
+	calinks_score = metrics.calinski_harabaz_score(X, labels)
+	Calinks.append(calinks_score)
+	print('Calinks Score para %d clusters: %f'%(k,calinks_score))
+	davies_score = metrics.davies_bouldin_score(X, labels)
+	Davies.append(davies_score)
+	print('Davies Bound Score para %d clusters: %f'%(k,davies_score))
+
+#avaliar os clusters finais com metrica local
 
 plt.plot(range(2,k_max),Js)
 plt.show()
