@@ -18,7 +18,7 @@ def medoid(cluster):
 			dist_matrix[j,i] = dist
 	return cluster[np.argmin(dist_matrix.sum(axis=0))]
 
-k_max = 100
+k_max = 10
 data_dir = 'word2vec.csv'
 X = np.genfromtxt(data_dir,dtype=np.float32,delimiter=',',skip_header=0,encoding='ascii')
 np.random.shuffle(X)
@@ -61,9 +61,20 @@ for k in range(2,k_max): # 2 à 300 (ronny), 301 à 500 (letícia)
 
 #avaliar os clusters finais com metrica local
 
+plt.xlabel('Number of clusters')
+plt.ylabel('Inertia')
 plt.plot(range(2,k_max),Js)
 plt.show()
 
+plt.xlabel('Number of clusters')
+plt.ylabel('Calinks Score')
+plt.plot(range(2,k_max),Calinks)
+plt.show()
+
+plt.xlabel('Number of clusters')
+plt.ylabel('Davies Bound Score')
+plt.plot(range(2,k_max),Davies)
+plt.show()
 '''
 # Aplicar o PCA só depois no melhor
 pca = PCA(0.95) # 'mle' # n_components=2,svd_solver='full'
