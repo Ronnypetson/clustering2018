@@ -1,0 +1,897 @@
+2
+Calinks Score para 2 clusters: 388.726783
+Davies Bound Score para 2 clusters: 5.705000
+3
+Calinks Score para 3 clusters: 289.955080
+Davies Bound Score para 3 clusters: 5.215192
+4
+Calinks Score para 4 clusters: 246.084714
+Davies Bound Score para 4 clusters: 5.822345
+5
+Calinks Score para 5 clusters: 217.232359
+Davies Bound Score para 5 clusters: 5.488923
+6
+Calinks Score para 6 clusters: 198.774926
+Davies Bound Score para 6 clusters: 5.286266
+7
+Calinks Score para 7 clusters: 184.359220
+Davies Bound Score para 7 clusters: 5.256563
+8
+Calinks Score para 8 clusters: 172.107900
+Davies Bound Score para 8 clusters: 5.268816
+9
+Calinks Score para 9 clusters: 161.077764
+Davies Bound Score para 9 clusters: 5.146386
+10
+Calinks Score para 10 clusters: 152.731641
+Davies Bound Score para 10 clusters: 5.217308
+11
+Calinks Score para 11 clusters: 146.253461
+Davies Bound Score para 11 clusters: 5.106111
+12
+Calinks Score para 12 clusters: 139.382264
+Davies Bound Score para 12 clusters: 4.904458
+13
+Calinks Score para 13 clusters: 133.787805
+Davies Bound Score para 13 clusters: 4.935417
+14
+Calinks Score para 14 clusters: 129.151205
+Davies Bound Score para 14 clusters: 4.869595
+15
+Calinks Score para 15 clusters: 123.931442
+Davies Bound Score para 15 clusters: 4.893835
+16
+Calinks Score para 16 clusters: 118.741801
+Davies Bound Score para 16 clusters: 4.942658
+17
+Calinks Score para 17 clusters: 114.459872
+Davies Bound Score para 17 clusters: 4.964609
+18
+Calinks Score para 18 clusters: 110.337104
+Davies Bound Score para 18 clusters: 4.820320
+19
+Calinks Score para 19 clusters: 106.941481
+Davies Bound Score para 19 clusters: 4.934357
+20
+Calinks Score para 20 clusters: 102.214925
+Davies Bound Score para 20 clusters: 4.920800
+21
+Calinks Score para 21 clusters: 100.896971
+Davies Bound Score para 21 clusters: 4.694174
+22
+Calinks Score para 22 clusters: 97.785018
+Davies Bound Score para 22 clusters: 4.729094
+23
+Calinks Score para 23 clusters: 94.429658
+Davies Bound Score para 23 clusters: 4.673531
+24
+Calinks Score para 24 clusters: 92.070171
+Davies Bound Score para 24 clusters: 4.410710
+25
+Calinks Score para 25 clusters: 89.275160
+Davies Bound Score para 25 clusters: 4.574938
+26
+Calinks Score para 26 clusters: 86.911393
+Davies Bound Score para 26 clusters: 4.538563
+27
+Calinks Score para 27 clusters: 84.714941
+Davies Bound Score para 27 clusters: 4.377125
+28
+Calinks Score para 28 clusters: 82.820476
+Davies Bound Score para 28 clusters: 4.522160
+29
+Calinks Score para 29 clusters: 81.223828
+Davies Bound Score para 29 clusters: 4.558142
+30
+Calinks Score para 30 clusters: 79.278714
+Davies Bound Score para 30 clusters: 4.591744
+31
+Calinks Score para 31 clusters: 77.365908
+Davies Bound Score para 31 clusters: 4.570749
+32
+Calinks Score para 32 clusters: 75.945830
+Davies Bound Score para 32 clusters: 4.565881
+33
+Calinks Score para 33 clusters: 74.461710
+Davies Bound Score para 33 clusters: 4.384741
+34
+Calinks Score para 34 clusters: 73.513453
+Davies Bound Score para 34 clusters: 4.449447
+35
+Calinks Score para 35 clusters: 71.732706
+Davies Bound Score para 35 clusters: 4.547827
+36
+Calinks Score para 36 clusters: 70.020442
+Davies Bound Score para 36 clusters: 4.374013
+37
+Calinks Score para 37 clusters: 69.428099
+Davies Bound Score para 37 clusters: 4.515015
+38
+Calinks Score para 38 clusters: 68.041518
+Davies Bound Score para 38 clusters: 4.517789
+39
+Calinks Score para 39 clusters: 67.109165
+Davies Bound Score para 39 clusters: 4.466094
+40
+Calinks Score para 40 clusters: 66.191626
+Davies Bound Score para 40 clusters: 4.362040
+41
+Calinks Score para 41 clusters: 64.742823
+Davies Bound Score para 41 clusters: 4.503829
+42
+Calinks Score para 42 clusters: 63.546761
+Davies Bound Score para 42 clusters: 4.188549
+43
+Calinks Score para 43 clusters: 62.871634
+Davies Bound Score para 43 clusters: 4.280200
+44
+Calinks Score para 44 clusters: 61.750129
+Davies Bound Score para 44 clusters: 4.337200
+45
+Calinks Score para 45 clusters: 60.884368
+Davies Bound Score para 45 clusters: 4.409082
+46
+Calinks Score para 46 clusters: 60.048621
+Davies Bound Score para 46 clusters: 4.433899
+47
+Calinks Score para 47 clusters: 59.371846
+Davies Bound Score para 47 clusters: 4.298493
+48
+Calinks Score para 48 clusters: 58.679487
+Davies Bound Score para 48 clusters: 4.262618
+49
+Calinks Score para 49 clusters: 57.315376
+Davies Bound Score para 49 clusters: 4.178502
+50
+Calinks Score para 50 clusters: 56.829596
+Davies Bound Score para 50 clusters: 4.372687
+51
+Calinks Score para 51 clusters: 56.458066
+Davies Bound Score para 51 clusters: 4.151299
+52
+Calinks Score para 52 clusters: 55.601148
+Davies Bound Score para 52 clusters: 4.198078
+53
+Calinks Score para 53 clusters: 54.730567
+Davies Bound Score para 53 clusters: 4.304422
+54
+Calinks Score para 54 clusters: 54.183808
+Davies Bound Score para 54 clusters: 4.322931
+55
+Calinks Score para 55 clusters: 53.639018
+Davies Bound Score para 55 clusters: 4.186100
+56
+Calinks Score para 56 clusters: 52.829590
+Davies Bound Score para 56 clusters: 4.129808
+57
+Calinks Score para 57 clusters: 51.776099
+Davies Bound Score para 57 clusters: 4.286608
+58
+Calinks Score para 58 clusters: 51.680138
+Davies Bound Score para 58 clusters: 4.198193
+59
+Calinks Score para 59 clusters: 51.597651
+Davies Bound Score para 59 clusters: 4.152574
+60
+Calinks Score para 60 clusters: 50.412599
+Davies Bound Score para 60 clusters: 4.153893
+61
+Calinks Score para 61 clusters: 50.048060
+Davies Bound Score para 61 clusters: 4.102155
+62
+Calinks Score para 62 clusters: 49.408818
+Davies Bound Score para 62 clusters: 4.064288
+63
+Calinks Score para 63 clusters: 48.928429
+Davies Bound Score para 63 clusters: 4.313180
+64
+Calinks Score para 64 clusters: 48.206733
+Davies Bound Score para 64 clusters: 4.075946
+65
+Calinks Score para 65 clusters: 48.157033
+Davies Bound Score para 65 clusters: 4.013332
+66
+Calinks Score para 66 clusters: 47.777383
+Davies Bound Score para 66 clusters: 4.141253
+67
+Calinks Score para 67 clusters: 46.735675
+Davies Bound Score para 67 clusters: 4.153332
+68
+Calinks Score para 68 clusters: 46.307256
+Davies Bound Score para 68 clusters: 3.993957
+69
+Calinks Score para 69 clusters: 45.648909
+Davies Bound Score para 69 clusters: 4.003629
+70
+Calinks Score para 70 clusters: 45.168000
+Davies Bound Score para 70 clusters: 3.939189
+71
+Calinks Score para 71 clusters: 44.947238
+Davies Bound Score para 71 clusters: 4.233105
+72
+Calinks Score para 72 clusters: 44.499843
+Davies Bound Score para 72 clusters: 4.013079
+73
+Calinks Score para 73 clusters: 44.197349
+Davies Bound Score para 73 clusters: 4.081028
+74
+Calinks Score para 74 clusters: 44.019119
+Davies Bound Score para 74 clusters: 3.795062
+75
+Calinks Score para 75 clusters: 43.243117
+Davies Bound Score para 75 clusters: 4.172715
+76
+Calinks Score para 76 clusters: 43.245509
+Davies Bound Score para 76 clusters: 4.125506
+77
+Calinks Score para 77 clusters: 43.065839
+Davies Bound Score para 77 clusters: 3.945347
+78
+Calinks Score para 78 clusters: 42.117618
+Davies Bound Score para 78 clusters: 4.045622
+79
+Calinks Score para 79 clusters: 41.688161
+Davies Bound Score para 79 clusters: 3.932569
+80
+Calinks Score para 80 clusters: 41.463481
+Davies Bound Score para 80 clusters: 3.896114
+81
+Calinks Score para 81 clusters: 41.098559
+Davies Bound Score para 81 clusters: 4.035591
+82
+Calinks Score para 82 clusters: 40.848105
+Davies Bound Score para 82 clusters: 3.995060
+83
+Calinks Score para 83 clusters: 40.386596
+Davies Bound Score para 83 clusters: 4.104139
+84
+Calinks Score para 84 clusters: 40.331581
+Davies Bound Score para 84 clusters: 3.894751
+85
+Calinks Score para 85 clusters: 39.778808
+Davies Bound Score para 85 clusters: 4.095369
+86
+Calinks Score para 86 clusters: 39.944342
+Davies Bound Score para 86 clusters: 3.943111
+87
+Calinks Score para 87 clusters: 39.398794
+Davies Bound Score para 87 clusters: 3.885478
+88
+Calinks Score para 88 clusters: 38.961907
+Davies Bound Score para 88 clusters: 3.939120
+89
+Calinks Score para 89 clusters: 38.927083
+Davies Bound Score para 89 clusters: 3.918916
+90
+Calinks Score para 90 clusters: 38.595311
+Davies Bound Score para 90 clusters: 3.944633
+91
+Calinks Score para 91 clusters: 38.063207
+Davies Bound Score para 91 clusters: 3.818720
+92
+Calinks Score para 92 clusters: 38.124365
+Davies Bound Score para 92 clusters: 4.051771
+93
+Calinks Score para 93 clusters: 37.575313
+Davies Bound Score para 93 clusters: 4.045065
+94
+Calinks Score para 94 clusters: 37.579563
+Davies Bound Score para 94 clusters: 3.807934
+95
+Calinks Score para 95 clusters: 37.088562
+Davies Bound Score para 95 clusters: 3.812514
+96
+Calinks Score para 96 clusters: 36.682866
+Davies Bound Score para 96 clusters: 3.867276
+97
+Calinks Score para 97 clusters: 36.259397
+Davies Bound Score para 97 clusters: 3.969299
+98
+Calinks Score para 98 clusters: 36.199240
+Davies Bound Score para 98 clusters: 3.893840
+99
+Calinks Score para 99 clusters: 36.133477
+Davies Bound Score para 99 clusters: 3.990429
+100
+Calinks Score para 100 clusters: 35.650905
+Davies Bound Score para 100 clusters: 3.878014
+101
+Calinks Score para 101 clusters: 35.450314
+Davies Bound Score para 101 clusters: 3.910004
+102
+Calinks Score para 102 clusters: 35.084439
+Davies Bound Score para 102 clusters: 3.991056
+103
+Calinks Score para 103 clusters: 34.970289
+Davies Bound Score para 103 clusters: 3.896649
+104
+Calinks Score para 104 clusters: 34.759527
+Davies Bound Score para 104 clusters: 3.613478
+105
+Calinks Score para 105 clusters: 34.801768
+Davies Bound Score para 105 clusters: 3.967023
+106
+Calinks Score para 106 clusters: 34.395428
+Davies Bound Score para 106 clusters: 4.078995
+107
+Calinks Score para 107 clusters: 33.917467
+Davies Bound Score para 107 clusters: 3.842305
+108
+Calinks Score para 108 clusters: 33.870005
+Davies Bound Score para 108 clusters: 3.837651
+109
+Calinks Score para 109 clusters: 33.988509
+Davies Bound Score para 109 clusters: 3.832241
+110
+Calinks Score para 110 clusters: 33.556567
+Davies Bound Score para 110 clusters: 3.947109
+111
+Calinks Score para 111 clusters: 33.411773
+Davies Bound Score para 111 clusters: 3.837643
+112
+Calinks Score para 112 clusters: 33.251989
+Davies Bound Score para 112 clusters: 3.727659
+113
+Calinks Score para 113 clusters: 32.924056
+Davies Bound Score para 113 clusters: 3.805937
+114
+Calinks Score para 114 clusters: 32.822950
+Davies Bound Score para 114 clusters: 3.774413
+115
+Calinks Score para 115 clusters: 32.410159
+Davies Bound Score para 115 clusters: 3.763870
+116
+Calinks Score para 116 clusters: 32.281954
+Davies Bound Score para 116 clusters: 3.796862
+117
+Calinks Score para 117 clusters: 32.149190
+Davies Bound Score para 117 clusters: 3.862982
+118
+Calinks Score para 118 clusters: 32.229549
+Davies Bound Score para 118 clusters: 3.766456
+119
+Calinks Score para 119 clusters: 31.695689
+Davies Bound Score para 119 clusters: 3.784378
+120
+Calinks Score para 120 clusters: 31.692910
+Davies Bound Score para 120 clusters: 3.819232
+121
+Calinks Score para 121 clusters: 31.487805
+Davies Bound Score para 121 clusters: 3.776823
+122
+Calinks Score para 122 clusters: 31.172498
+Davies Bound Score para 122 clusters: 3.761794
+123
+Calinks Score para 123 clusters: 31.082861
+Davies Bound Score para 123 clusters: 3.821769
+124
+Calinks Score para 124 clusters: 30.772704
+Davies Bound Score para 124 clusters: 3.793080
+125
+Calinks Score para 125 clusters: 30.618327
+Davies Bound Score para 125 clusters: 3.657900
+126
+Calinks Score para 126 clusters: 30.498712
+Davies Bound Score para 126 clusters: 3.649168
+127
+Calinks Score para 127 clusters: 30.330880
+Davies Bound Score para 127 clusters: 3.779442
+128
+Calinks Score para 128 clusters: 30.357752
+Davies Bound Score para 128 clusters: 3.765177
+129
+Calinks Score para 129 clusters: 30.076786
+Davies Bound Score para 129 clusters: 3.715832
+130
+Calinks Score para 130 clusters: 29.827428
+Davies Bound Score para 130 clusters: 3.632189
+131
+Calinks Score para 131 clusters: 29.680599
+Davies Bound Score para 131 clusters: 3.743667
+132
+Calinks Score para 132 clusters: 29.327693
+Davies Bound Score para 132 clusters: 3.755118
+133
+Calinks Score para 133 clusters: 29.522039
+Davies Bound Score para 133 clusters: 3.614689
+134
+Calinks Score para 134 clusters: 29.164449
+Davies Bound Score para 134 clusters: 3.801555
+135
+Calinks Score para 135 clusters: 28.964494
+Davies Bound Score para 135 clusters: 3.663297
+136
+Calinks Score para 136 clusters: 28.962936
+Davies Bound Score para 136 clusters: 3.754158
+137
+Calinks Score para 137 clusters: 28.746854
+Davies Bound Score para 137 clusters: 3.660742
+138
+Calinks Score para 138 clusters: 28.922490
+Davies Bound Score para 138 clusters: 3.684756
+139
+Calinks Score para 139 clusters: 28.630175
+Davies Bound Score para 139 clusters: 3.628007
+140
+Calinks Score para 140 clusters: 28.418910
+Davies Bound Score para 140 clusters: 3.773418
+141
+Calinks Score para 141 clusters: 28.320057
+Davies Bound Score para 141 clusters: 3.592412
+142
+Calinks Score para 142 clusters: 28.230752
+Davies Bound Score para 142 clusters: 3.800635
+143
+Calinks Score para 143 clusters: 28.046864
+Davies Bound Score para 143 clusters: 3.596898
+144
+Calinks Score para 144 clusters: 27.905298
+Davies Bound Score para 144 clusters: 3.633308
+145
+Calinks Score para 145 clusters: 27.887564
+Davies Bound Score para 145 clusters: 3.678697
+146
+Calinks Score para 146 clusters: 27.602034
+Davies Bound Score para 146 clusters: 3.661013
+147
+Calinks Score para 147 clusters: 27.485517
+Davies Bound Score para 147 clusters: 3.709438
+148
+Calinks Score para 148 clusters: 27.279042
+Davies Bound Score para 148 clusters: 3.738415
+149
+Calinks Score para 149 clusters: 27.313111
+Davies Bound Score para 149 clusters: 3.644563
+150
+Calinks Score para 150 clusters: 27.255001
+Davies Bound Score para 150 clusters: 3.651571
+151
+Calinks Score para 151 clusters: 26.978973
+Davies Bound Score para 151 clusters: 3.687417
+152
+Calinks Score para 152 clusters: 27.029799
+Davies Bound Score para 152 clusters: 3.629124
+153
+Calinks Score para 153 clusters: 26.879864
+Davies Bound Score para 153 clusters: 3.720885
+154
+Calinks Score para 154 clusters: 26.592471
+Davies Bound Score para 154 clusters: 3.720789
+155
+Calinks Score para 155 clusters: 26.598019
+Davies Bound Score para 155 clusters: 3.554266
+156
+Calinks Score para 156 clusters: 26.451926
+Davies Bound Score para 156 clusters: 3.706411
+157
+Calinks Score para 157 clusters: 26.425913
+Davies Bound Score para 157 clusters: 3.602090
+158
+Calinks Score para 158 clusters: 26.323359
+Davies Bound Score para 158 clusters: 3.581273
+159
+Calinks Score para 159 clusters: 26.238055
+Davies Bound Score para 159 clusters: 3.681839
+160
+Calinks Score para 160 clusters: 25.876092
+Davies Bound Score para 160 clusters: 3.653619
+161
+Calinks Score para 161 clusters: 25.877106
+Davies Bound Score para 161 clusters: 3.613296
+162
+Calinks Score para 162 clusters: 25.693819
+Davies Bound Score para 162 clusters: 3.624144
+163
+Calinks Score para 163 clusters: 25.624254
+Davies Bound Score para 163 clusters: 3.464994
+164
+Calinks Score para 164 clusters: 25.688879
+Davies Bound Score para 164 clusters: 3.604738
+165
+Calinks Score para 165 clusters: 25.595049
+Davies Bound Score para 165 clusters: 3.593311
+166
+Calinks Score para 166 clusters: 25.510878
+Davies Bound Score para 166 clusters: 3.720098
+167
+Calinks Score para 167 clusters: 25.146663
+Davies Bound Score para 167 clusters: 3.596524
+168
+Calinks Score para 168 clusters: 25.184098
+Davies Bound Score para 168 clusters: 3.591411
+169
+Calinks Score para 169 clusters: 25.298391
+Davies Bound Score para 169 clusters: 3.443518
+170
+Calinks Score para 170 clusters: 25.127822
+Davies Bound Score para 170 clusters: 3.654925
+171
+Calinks Score para 171 clusters: 24.792236
+Davies Bound Score para 171 clusters: 3.511995
+172
+Calinks Score para 172 clusters: 24.749083
+Davies Bound Score para 172 clusters: 3.631723
+173
+Calinks Score para 173 clusters: 24.741193
+Davies Bound Score para 173 clusters: 3.567426
+174
+Calinks Score para 174 clusters: 24.499820
+Davies Bound Score para 174 clusters: 3.589044
+175
+Calinks Score para 175 clusters: 24.530658
+Davies Bound Score para 175 clusters: 3.526949
+176
+Calinks Score para 176 clusters: 24.431650
+Davies Bound Score para 176 clusters: 3.544636
+177
+Calinks Score para 177 clusters: 24.289345
+Davies Bound Score para 177 clusters: 3.559678
+178
+Calinks Score para 178 clusters: 24.194749
+Davies Bound Score para 178 clusters: 3.563348
+179
+Calinks Score para 179 clusters: 24.143980
+Davies Bound Score para 179 clusters: 3.567153
+180
+Calinks Score para 180 clusters: 24.072088
+Davies Bound Score para 180 clusters: 3.543719
+181
+Calinks Score para 181 clusters: 24.062040
+Davies Bound Score para 181 clusters: 3.528557
+182
+Calinks Score para 182 clusters: 23.806327
+Davies Bound Score para 182 clusters: 3.429670
+183
+Calinks Score para 183 clusters: 23.712883
+Davies Bound Score para 183 clusters: 3.511238
+184
+Calinks Score para 184 clusters: 23.706362
+Davies Bound Score para 184 clusters: 3.493293
+185
+Calinks Score para 185 clusters: 23.519447
+Davies Bound Score para 185 clusters: 3.522062
+186
+Calinks Score para 186 clusters: 23.427797
+Davies Bound Score para 186 clusters: 3.571292
+187
+Calinks Score para 187 clusters: 23.457178
+Davies Bound Score para 187 clusters: 3.609678
+188
+Calinks Score para 188 clusters: 23.236504
+Davies Bound Score para 188 clusters: 3.452150
+189
+Calinks Score para 189 clusters: 23.164281
+Davies Bound Score para 189 clusters: 3.556767
+190
+Calinks Score para 190 clusters: 23.086675
+Davies Bound Score para 190 clusters: 3.477913
+191
+Calinks Score para 191 clusters: 23.118784
+Davies Bound Score para 191 clusters: 3.498193
+192
+Calinks Score para 192 clusters: 22.831659
+Davies Bound Score para 192 clusters: 3.510011
+193
+Calinks Score para 193 clusters: 23.115866
+Davies Bound Score para 193 clusters: 3.426431
+194
+Calinks Score para 194 clusters: 22.838409
+Davies Bound Score para 194 clusters: 3.567382
+195
+Calinks Score para 195 clusters: 22.873152
+Davies Bound Score para 195 clusters: 3.473621
+196
+Calinks Score para 196 clusters: 22.675232
+Davies Bound Score para 196 clusters: 3.466553
+197
+Calinks Score para 197 clusters: 22.540364
+Davies Bound Score para 197 clusters: 3.538232
+198
+Calinks Score para 198 clusters: 22.512100
+Davies Bound Score para 198 clusters: 3.405736
+199
+Calinks Score para 199 clusters: 22.552849
+Davies Bound Score para 199 clusters: 3.404613
+200
+Calinks Score para 200 clusters: 22.399851
+Davies Bound Score para 200 clusters: 3.364244
+201
+Calinks Score para 201 clusters: 22.255098
+Davies Bound Score para 201 clusters: 3.523029
+202
+Calinks Score para 202 clusters: 22.384919
+Davies Bound Score para 202 clusters: 3.467926
+203
+Calinks Score para 203 clusters: 22.299508
+Davies Bound Score para 203 clusters: 3.440975
+204
+Calinks Score para 204 clusters: 22.006721
+Davies Bound Score para 204 clusters: 3.411228
+205
+Calinks Score para 205 clusters: 21.960150
+Davies Bound Score para 205 clusters: 3.470015
+206
+Calinks Score para 206 clusters: 21.956260
+Davies Bound Score para 206 clusters: 3.511182
+207
+Calinks Score para 207 clusters: 21.869745
+Davies Bound Score para 207 clusters: 3.477073
+208
+Calinks Score para 208 clusters: 21.813616
+Davies Bound Score para 208 clusters: 3.467955
+209
+Calinks Score para 209 clusters: 21.664142
+Davies Bound Score para 209 clusters: 3.492618
+210
+Calinks Score para 210 clusters: 21.635222
+Davies Bound Score para 210 clusters: 3.399581
+211
+Calinks Score para 211 clusters: 21.538607
+Davies Bound Score para 211 clusters: 3.494115
+212
+Calinks Score para 212 clusters: 21.474895
+Davies Bound Score para 212 clusters: 3.462081
+213
+Calinks Score para 213 clusters: 21.394019
+Davies Bound Score para 213 clusters: 3.519739
+214
+Calinks Score para 214 clusters: 21.282431
+Davies Bound Score para 214 clusters: 3.461183
+215
+Calinks Score para 215 clusters: 21.374260
+Davies Bound Score para 215 clusters: 3.455064
+216
+Calinks Score para 216 clusters: 21.126757
+Davies Bound Score para 216 clusters: 3.434719
+217
+Calinks Score para 217 clusters: 21.095090
+Davies Bound Score para 217 clusters: 3.426286
+218
+Calinks Score para 218 clusters: 21.048800
+Davies Bound Score para 218 clusters: 3.391742
+219
+Calinks Score para 219 clusters: 21.040109
+Davies Bound Score para 219 clusters: 3.394806
+220
+Calinks Score para 220 clusters: 21.054132
+Davies Bound Score para 220 clusters: 3.416227
+221
+Calinks Score para 221 clusters: 20.845750
+Davies Bound Score para 221 clusters: 3.443055
+222
+Calinks Score para 222 clusters: 20.861115
+Davies Bound Score para 222 clusters: 3.400591
+223
+Calinks Score para 223 clusters: 20.812198
+Davies Bound Score para 223 clusters: 3.393998
+224
+Calinks Score para 224 clusters: 20.677424
+Davies Bound Score para 224 clusters: 3.430624
+225
+Calinks Score para 225 clusters: 20.650078
+Davies Bound Score para 225 clusters: 3.277714
+226
+Calinks Score para 226 clusters: 20.607464
+Davies Bound Score para 226 clusters: 3.429002
+227
+Calinks Score para 227 clusters: 20.494956
+Davies Bound Score para 227 clusters: 3.478445
+228
+Calinks Score para 228 clusters: 20.430742
+Davies Bound Score para 228 clusters: 3.446287
+229
+Calinks Score para 229 clusters: 20.344555
+Davies Bound Score para 229 clusters: 3.384947
+230
+Calinks Score para 230 clusters: 20.303348
+Davies Bound Score para 230 clusters: 3.390593
+231
+Calinks Score para 231 clusters: 20.241752
+Davies Bound Score para 231 clusters: 3.480347
+232
+Calinks Score para 232 clusters: 20.273876
+Davies Bound Score para 232 clusters: 3.319732
+233
+Calinks Score para 233 clusters: 20.162505
+Davies Bound Score para 233 clusters: 3.378737
+234
+Calinks Score para 234 clusters: 20.249027
+Davies Bound Score para 234 clusters: 3.351650
+235
+Calinks Score para 235 clusters: 20.036148
+Davies Bound Score para 235 clusters: 3.361651
+236
+Calinks Score para 236 clusters: 20.010042
+Davies Bound Score para 236 clusters: 3.425359
+237
+Calinks Score para 237 clusters: 19.906713
+Davies Bound Score para 237 clusters: 3.492182
+238
+Calinks Score para 238 clusters: 19.974923
+Davies Bound Score para 238 clusters: 3.377384
+239
+Calinks Score para 239 clusters: 19.856394
+Davies Bound Score para 239 clusters: 3.254768
+240
+Calinks Score para 240 clusters: 19.738433
+Davies Bound Score para 240 clusters: 3.348750
+241
+Calinks Score para 241 clusters: 19.721573
+Davies Bound Score para 241 clusters: 3.328300
+242
+Calinks Score para 242 clusters: 19.690288
+Davies Bound Score para 242 clusters: 3.331161
+243
+Calinks Score para 243 clusters: 19.616780
+Davies Bound Score para 243 clusters: 3.347298
+244
+Calinks Score para 244 clusters: 19.618028
+Davies Bound Score para 244 clusters: 3.379596
+245
+Calinks Score para 245 clusters: 19.477284
+Davies Bound Score para 245 clusters: 3.294502
+246
+Calinks Score para 246 clusters: 19.387504
+Davies Bound Score para 246 clusters: 3.441917
+247
+Calinks Score para 247 clusters: 19.432897
+Davies Bound Score para 247 clusters: 3.281604
+248
+Calinks Score para 248 clusters: 19.326752
+Davies Bound Score para 248 clusters: 3.400179
+249
+Calinks Score para 249 clusters: 19.168900
+Davies Bound Score para 249 clusters: 3.386312
+250
+Calinks Score para 250 clusters: 19.249415
+Davies Bound Score para 250 clusters: 3.378110
+251
+Calinks Score para 251 clusters: 19.114311
+Davies Bound Score para 251 clusters: 3.361804
+252
+Calinks Score para 252 clusters: 19.072112
+Davies Bound Score para 252 clusters: 3.384889
+253
+Calinks Score para 253 clusters: 19.066151
+Davies Bound Score para 253 clusters: 3.374096
+254
+Calinks Score para 254 clusters: 18.985412
+Davies Bound Score para 254 clusters: 3.233347
+255
+Calinks Score para 255 clusters: 18.912434
+Davies Bound Score para 255 clusters: 3.350140
+256
+Calinks Score para 256 clusters: 18.992002
+Davies Bound Score para 256 clusters: 3.343614
+257
+Calinks Score para 257 clusters: 18.895321
+Davies Bound Score para 257 clusters: 3.211056
+258
+Calinks Score para 258 clusters: 18.826784
+Davies Bound Score para 258 clusters: 3.307191
+259
+Calinks Score para 259 clusters: 18.612592
+Davies Bound Score para 259 clusters: 3.328841
+260
+Calinks Score para 260 clusters: 18.735829
+Davies Bound Score para 260 clusters: 3.329609
+261
+Calinks Score para 261 clusters: 18.848502
+Davies Bound Score para 261 clusters: 3.206186
+262
+Calinks Score para 262 clusters: 18.511191
+Davies Bound Score para 262 clusters: 3.334052
+263
+Calinks Score para 263 clusters: 18.660048
+Davies Bound Score para 263 clusters: 3.281676
+264
+Calinks Score para 264 clusters: 18.551193
+Davies Bound Score para 264 clusters: 3.325422
+265
+Calinks Score para 265 clusters: 18.452515
+Davies Bound Score para 265 clusters: 3.314585
+266
+Calinks Score para 266 clusters: 18.417505
+Davies Bound Score para 266 clusters: 3.250804
+267
+Calinks Score para 267 clusters: 18.407979
+Davies Bound Score para 267 clusters: 3.255953
+268
+Calinks Score para 268 clusters: 18.336158
+Davies Bound Score para 268 clusters: 3.208794
+269
+Calinks Score para 269 clusters: 18.226554
+Davies Bound Score para 269 clusters: 3.306077
+270
+Calinks Score para 270 clusters: 18.190601
+Davies Bound Score para 270 clusters: 3.206981
+271
+Calinks Score para 271 clusters: 18.249138
+Davies Bound Score para 271 clusters: 3.296964
+272
+Calinks Score para 272 clusters: 18.182557
+Davies Bound Score para 272 clusters: 3.211206
+273
+Calinks Score para 273 clusters: 18.090668
+Davies Bound Score para 273 clusters: 3.320189
+274
+Calinks Score para 274 clusters: 18.055129
+Davies Bound Score para 274 clusters: 3.284308
+275
+Calinks Score para 275 clusters: 18.042525
+Davies Bound Score para 275 clusters: 3.244880
+276
+Calinks Score para 276 clusters: 17.877632
+Davies Bound Score para 276 clusters: 3.263910
+277
+Calinks Score para 277 clusters: 17.845767
+Davies Bound Score para 277 clusters: 3.296220
+278
+Calinks Score para 278 clusters: 17.956885
+Davies Bound Score para 278 clusters: 3.236014
+279
+Calinks Score para 279 clusters: 17.875636
+Davies Bound Score para 279 clusters: 3.242451
+280
+Calinks Score para 280 clusters: 17.839468
+Davies Bound Score para 280 clusters: 3.267497
+281
+Calinks Score para 281 clusters: 17.678029
+Davies Bound Score para 281 clusters: 3.240110
+282
+Calinks Score para 282 clusters: 17.629222
+Davies Bound Score para 282 clusters: 3.262589
+283
+Calinks Score para 283 clusters: 17.665639
+Davies Bound Score para 283 clusters: 3.258337
+284
+Calinks Score para 284 clusters: 17.583212
+Davies Bound Score para 284 clusters: 3.313789
+285
+Calinks Score para 285 clusters: 17.549531
+Davies Bound Score para 285 clusters: 3.137296
+286
+Calinks Score para 286 clusters: 17.547294
+Davies Bound Score para 286 clusters: 3.194569
+287
+Calinks Score para 287 clusters: 17.487045
+Davies Bound Score para 287 clusters: 3.224641
+288
+Calinks Score para 288 clusters: 17.501097
+Davies Bound Score para 288 clusters: 3.224218
+289
+Calinks Score para 289 clusters: 17.404479
+Davies Bound Score para 289 clusters: 3.348338
+290
+Calinks Score para 290 clusters: 17.378345
+Davies Bound Score para 290 clusters: 3.193578
+291
+Calinks Score para 291 clusters: 17.443143
+Davies Bound Score para 291 clusters: 3.285510
+292
+Calinks Score para 292 clusters: 17.302472
+Davies Bound Score para 292 clusters: 3.196625
+293
+Calinks Score para 293 clusters: 17.355952
+Davies Bound Score para 293 clusters: 3.223299
+294
+Calinks Score para 294 clusters: 17.169003
+Davies Bound Score para 294 clusters: 3.192933
+295
+Calinks Score para 295 clusters: 17.206760
+Davies Bound Score para 295 clusters: 3.242260
+296
+Calinks Score para 296 clusters: 17.105910
+Davies Bound Score para 296 clusters: 3.308803
+297
+Calinks Score para 297 clusters: 17.173663
+Davies Bound Score para 297 clusters: 3.202141
+298
+Calinks Score para 298 clusters: 17.105570
+Davies Bound Score para 298 clusters: 3.221082
+299
+Calinks Score para 299 clusters: 17.019467
+Davies Bound Score para 299 clusters: 3.316565
+300
+Calinks Score para 300 clusters: 16.891998
+Davies Bound Score para 300 clusters: 3.253593
